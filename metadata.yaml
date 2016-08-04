@@ -1,0 +1,39 @@
+_repo: Mary-Louise_5660
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baum, L. Frank (Lyman Frank)
+    aliases:
+    - Van Dyne, Edith
+    - Bancroft, Laura
+    - Baum, Lyman Frank
+    birthdate: 1856
+    deathdate: 1919
+    gutenberg_agent_id: '42'
+    url: http://www.gutenberg.org/2009/agents/42
+    wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
+description: Although Frank L. Baum is best remembered as the author of the Wizard
+  of Oz series of books, he also penned a variety of stories geared for young readers
+  under various pen names. Mary Louise is part of Baum's Bluebird Books series, which
+  centers on the exploits and triumphs of intrepid teen detective Mary Louise Burrows.
+gutenberg_bookshelf:
+- Children's Book Series
+- Fantasy
+- Children's Literature
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5660'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Teenage girls -- Juvenile fiction'
+- !lcsh 'Burrows, Mary Louise (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PZ'
+- !lcc 'PS'
+- GITenberg
+title: Mary Louise
+url: http://www.gutenberg.org/ebooks/5660
